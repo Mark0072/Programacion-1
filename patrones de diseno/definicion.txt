@@ -1,1 +1,0 @@
-Los patrones de diseño son, en esencia, planos o recetas probadas para resolver problemas comunes en el desarrollo de software. No son fragmentos de código que copias y pegas, sino conceptos que adaptas a tu situación particular para que tu código sea más flexible, reutilizable y fácil de mantener.
